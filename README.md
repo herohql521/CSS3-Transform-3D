@@ -24,6 +24,7 @@
     3.绕X轴：top  center bottom
     4.绕Y轴：left center right
     
-#####通常情况不同变换元素由不同容器单独存放
+#####通常情况不同变换元素由不同容器单独存放，通常会在变换之前，加上transform-translate-3d(0,0,0,)触发GPU加速
+
     
     

@@ -1,6 +1,6 @@
 # CSS3-Transform-3D
 
-正确来讲应该是 transform： translate-3d()　rotate-3d()　scale-3d()
+正确来讲应该是 transform： translate3d()　rotate3d()　scale3d()
 
 ####创建舞台场景(-webkit-)
 
@@ -16,7 +16,7 @@
     
     background-visibility: visibile　|　hidden; 默认显示
     
-    transform：translate-3d(px,px,px)　rotate-3d(deg,deg,deg)　scale-3d(1,1,1,)；之间用空格分开
+    transform：translate3d(px,px,px)　rotate3d(deg,deg,deg)　scale3d(1,1,1,)；之间用空格分开
     
 #####transform-origin的取值
 

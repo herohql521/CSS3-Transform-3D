@@ -29,17 +29,17 @@
 
 ###正负值----方向
 
-translateX　　　　　　　　　　－＋(左负-右正)　　
+　　translateX　　　　　　　　　　－＋(左负-右正)　　[demo](https://herohql521.github.io/CSS3-Transform-3D/rotateX)
     
-translateY　　　　　　　　　　－＋(上负-下正)　　　　　　　　　　　
+　　translateY　　　　　　　　　　－＋(上负-下正)　　　　　　　　　　　
     
-translateZ　　　　　　　　　　屏幕向外为正
+　　translateZ　　　　　　　　　　屏幕向外为正
     
-rotateX　　　　　　　　　　　 上边向屏幕内滚为正，从侧面看顺时针旋转为正
+　　rotateX　　　　　　　　　　　 上边向屏幕内滚为正，从侧面看顺时针旋转为正
     
-rotateY　　　　　　　　　　　 右边向屏幕内滚为正，从俯视图看逆时针为正
+　　rotateY　　　　　　　　　　　 右边向屏幕内滚为正，从俯视图看逆时针为正
 
-rotateZ                      顺时针为正
+　　rotateZ                      顺时针为正
 
     
     

@@ -15,7 +15,7 @@
     
     background-visibility: visibile　|　hidden; 默认显示
     
-    transform：translage-3d()　rotate-3d()　scale-3d()；之间用空格分开
+    transform：translage-3d(px,px,px)　rotate-3d(deg,deg,deg)　scale-3d(1,1,1,)；之间用空格分开
     
 #####transform-origin的取值
 

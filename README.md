@@ -6,13 +6,13 @@
 
   perspective:　800px;
   
-  perspective-origin:　50%,50%;　(默认)
+  perspective-origin:　50%　50%;　(默认)
   
 ####变换元素(-webkit-)
 
     transform-style:perserve-3d;
     
-    transform-origin: x,y,z;
+    transform-origin: x　y　z;
     
     background-visibility: visibile　|　hidden; 默认显示
     

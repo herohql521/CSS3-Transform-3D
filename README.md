@@ -29,7 +29,7 @@
 
 ###正负值及方向问题
     
-    translateX　　　　　　　　　　－＋(左负-右正)　　![demo](https://herohql521.github.io/CSS3-Transform-3D/rotateX)
+    translateX　　　　　　　　　　－＋(左负-右正)　　<a href="https://herohql521.github.io/CSS3-Transform-3D/rotateX">demo</a>
     
     translateY　　　　　　　　　　－＋(上负-下正)　　　　　　　　　　　
     

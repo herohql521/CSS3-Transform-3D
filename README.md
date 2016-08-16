@@ -39,7 +39,7 @@
     
 　　rotateY　　　　　　　　　　　 右边向屏幕内滚为正，从俯视图看逆时针为正　　[demoY](https://herohql521.github.io/CSS3-Transform-3D/rotateY.html)　　　
 
-　　rotateZ                      顺时针为正　　[demoZ](https://herohql521.github.io/CSS3-Transform-3D/rotateZ.html)　　
+　　rotateZ　　　　　　　　　　　顺时针为正　　[demoZ](https://herohql521.github.io/CSS3-Transform-3D/rotateZ.html)　　
 
     
     

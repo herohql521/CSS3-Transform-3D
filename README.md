@@ -5,7 +5,7 @@
 ####创建舞台场景(-webkit-)
 
   perspective:800px;
-  perspective-origin:50%　,　50%;　(默认)
+  perspective-origin:　50%,50%;　(默认)
   
 ####变换元素(-webkit-)
 
@@ -15,7 +15,7 @@
     
     background-visibility: visibile　|　hidden; 默认显示
     
-    transform：translage-3d()　rotate-3d()　scale-3d()；
+    transform：translage-3d()　rotate-3d()　scale-3d()；之间用空格分开
     
 #####transform-origin的取值
 

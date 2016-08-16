@@ -5,6 +5,7 @@
 ####创建舞台场景(-webkit-)
 
   perspective: 800px;
+  
   perspective-origin:　50%,50%;　(默认)
   
 ####变换元素(-webkit-)

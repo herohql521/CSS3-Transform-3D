@@ -1,11 +1,11 @@
 # CSS3-Transform-3D
 
-正确来讲应该是 transform： translage-3d()　rotate-3d()　scale-3d()
+正确来讲应该是 transform： translate-3d()　rotate-3d()　scale-3d()
 
 ####创建舞台场景(-webkit-)
 
   perspective:800px;
-  perspective-origin:50%,50%;(默认)
+  perspective-origin:50%　,　50%;　(默认)
   
 ####变换元素(-webkit-)
 

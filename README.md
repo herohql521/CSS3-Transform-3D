@@ -14,7 +14,7 @@
     
     transform-origin: x　y　z;
     
-    background-visibility: visibile　|　hidden; 默认显示
+    backface-visibility: visible　|　hidden; 默认显示
     
     transform：translate3d(px,px,px)　rotate3d(deg,deg,deg)　scale3d(1,1,1,)；之间用空格分开
     

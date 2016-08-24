@@ -8,6 +8,10 @@
   
   perspective-origin:　50%　50%;　(默认)
   
+  transform-style:preserve-3d;
+  
+  transform-origin: 50%　50%　0;
+  
 ####变换元素(-webkit-)
 
     transform-style:preserve-3d;
@@ -33,7 +37,7 @@
     
 　　translateY　　　　　　　　　　－＋(上负-下正)　　　　　　　　　　　　
     
-　　translateZ　　　　　　　　　　屏幕向外为正　　
+　　translateZ　　　　　　　　　　物体正面方向为正，背面方向为负　　
     
 　　rotateX　　　　　　　　　　　 上边向屏幕内滚为正，从侧面看顺时针旋转为正　　[demoX](https://herohql521.github.io/CSS3-Transform-3D/rotateX.html)
     

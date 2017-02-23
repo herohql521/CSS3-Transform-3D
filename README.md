@@ -47,4 +47,7 @@
 　　rotateZ　　　　　　　　　　　顺时针为正　　[demoZ](https://herohql521.github.io/CSS3-Transform-3D/rotateZ.html)　　
 
     
-    注意：perspective的值并不等同相机离物体的距离。与Z轴的值和perspective-origin有关。
+    
+    
+    
+ #####注意：perspective的值并不等同相机离物体的距离。与Z轴的值和perspective-origin有关。

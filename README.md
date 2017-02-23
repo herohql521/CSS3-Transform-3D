@@ -15,7 +15,8 @@
   
 ####变换元素(-webkit-)
 
-   
+    transform-style:  preserve-3d;
+    
     transform-origin: x　y　z;
     
     backface-visibility: visible　|　hidden; 默认显示

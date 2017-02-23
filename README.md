@@ -4,8 +4,8 @@
 
 ####创建舞台场景(-webkit-)
 
- [perspective:　800px;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/perspective)
-  
+ [perspective:　800px;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/perspective)     使三维物体产生透视效果，效果与perspective-origin有关
+ 
  [perspective-origin:　50%　50%;　(默认)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/perspective-origin)     消失点的位置
  
  [transform-style:  preserve-3d;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-style)     子元素

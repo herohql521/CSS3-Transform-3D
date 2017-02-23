@@ -4,7 +4,7 @@
 
 ####创建舞台场景(-webkit-)
 
-  perspective:　800px;
+ [perspective:　800px;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/perspective)
   
   perspective-origin:　50%　50%;　(默认)
   

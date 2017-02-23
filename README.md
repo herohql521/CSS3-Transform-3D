@@ -6,14 +6,12 @@
 
  [perspective:　800px;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/perspective)
   
-  perspective-origin:　50%　50%;　(默认)
-  
-  transform-style:preserve-3d;
-  
-  transform-origin: 50%　50%　0;
-  
+ [perspective-origin:　50%　50%;　(默认)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/perspective-origin)     消失点的位置
+ 
  [transform-style:preserve-3d;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-style)     子元素
-  位于3D场景内（非继承）
+ 位于3D场景内（不会被自动继承）
+  
+ [transform-origin: 50%　50%　0;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-origin)  变形原点
   
 ####变换元素(-webkit-)
 

@@ -12,7 +12,7 @@
   
   transform-origin: 50%　50%　0;
   
-  [transform-style:preserve-3d;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-style)子元素
+ [transform-style:preserve-3d;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-style)   子元素
   位于3D场景内（非继承）
   
 ####变换元素(-webkit-)

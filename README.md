@@ -11,7 +11,7 @@
  [transform-style:preserve-3d;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-style)     子元素
  位于3D场景内（不会被自动继承）
   
- [transform-origin: 50%　50%　0;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-origin)  变形原点
+ [transform-origin: 50%　50%　0;](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-origin)   变形原点
   
 ####变换元素(-webkit-)
 
